@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Gradient suav de la roz la portocaliu */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+h1 {
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    margin: 0 0 20px 0;
+}
+p {
+    font-size: 3.2rem;
+    color: rgb(236, 225, 225);
+    line-height: 1.6;
+    text-align: center;
+    width: 80%;
+    max-width: 600px;
+}
+flex-box{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
